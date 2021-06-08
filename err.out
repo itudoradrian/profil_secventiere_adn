@@ -1,0 +1,29 @@
+[M::bam2fq_mainloop] discarded 0 singletons
+[M::bam2fq_mainloop] processed 100 reads
+ed 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+5013(99.4238%)
+
+Read1 after filtering:
+total reads: 100
+total bases: 15093
+Q20 bases: 15019(99.5097%)
+Q30 bases: 15006(99.4236%)
+
+Filtering result:
+reads passed filter: 100
+reads failed due to low quality: 0
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads with adapter trimmed: 1
+bases trimmed due to adapters: 7
+
+Duplication rate (may be overestimated since this is SE data): 0%
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp --stdin --stdout --adapter_fasta=/home/tudor/Downloads/adapters.fasta 
+fastp v0.20.1, time used: 0 seconds

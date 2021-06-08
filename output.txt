@@ -1,0 +1,5951 @@
+{
+  accno: 'LC528233',
+  subjectTitle: 'gi|1968818729|dbj|LC528233.2| Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/DP/Kng/19-027 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 990,
+  endAlignment: 29294,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC528232',
+  subjectTitle: 'gi|1968818726|dbj|LC528232.2| Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/DP/Kng/19-020 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 980,
+  endAlignment: 29519,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC534419',
+  subjectTitle: 'gi|1968818722|dbj|LC534419.2| Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/Kng/19-437 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 984,
+  endAlignment: 29523,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC534418',
+  subjectTitle: 'gi|1825979607|dbj|LC534418.1| Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/DP/Kng/19-031 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC546038',
+  subjectTitle: 'gi|1841859283|dbj|LC546038.1| Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/Kng/19-865 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 172,
+  endAlignment: 29526,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LC594651',
+  subjectTitle: 'gi|1958892478|dbj|LC594651.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro97618 RNA, complete genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 74
+}
+{
+  accno: 'LC594650',
+  subjectTitle: 'gi|1958892465|dbj|LC594650.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro97237 RNA, complete genome',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 997,
+  endAlignment: 29537,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28541,
+  noreads: 72
+}
+{
+  accno: 'LC594649',
+  subjectTitle: 'gi|1958892451|dbj|LC594649.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro97166 RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC594648',
+  subjectTitle: 'gi|1958892438|dbj|LC594648.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro96977 RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 973,
+  endAlignment: 29512,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC594647',
+  subjectTitle: 'gi|1958892425|dbj|LC594647.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro94253 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 994,
+  endAlignment: 29298,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 78
+}
+{
+  accno: 'LC594646',
+  subjectTitle: 'gi|1958892411|dbj|LC594646.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro99268 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC594645',
+  subjectTitle: 'gi|1958892398|dbj|LC594645.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro99262 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC594644',
+  subjectTitle: 'gi|1958892385|dbj|LC594644.1| Severe acute respiratory syndrome coronavirus 2 JP_Hiro66017 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC593819',
+  subjectTitle: 'gi|1934860968|dbj|LC593819.1| Severe acute respiratory syndrome coronavirus 2 TKYT30430_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 986,
+  endAlignment: 29290,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593818',
+  subjectTitle: 'gi|1934860955|dbj|LC593818.1| Severe acute respiratory syndrome coronavirus 2 TKYE630414_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 982,
+  endAlignment: 29286,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593817',
+  subjectTitle: 'gi|1934860942|dbj|LC593817.1| Severe acute respiratory syndrome coronavirus 2 TKYE630411_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 982,
+  endAlignment: 29286,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593816',
+  subjectTitle: 'gi|1934860929|dbj|LC593816.1| Severe acute respiratory syndrome coronavirus 2 TKYT30408_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 996,
+  endAlignment: 29300,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593815',
+  subjectTitle: 'gi|1934860916|dbj|LC593815.1| Severe acute respiratory syndrome coronavirus 2 TKYT30095_2020 genomic RNA, complete genome',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 987,
+  endAlignment: 29526,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 72
+}
+{
+  accno: 'LC593814',
+  subjectTitle: 'gi|1934860903|dbj|LC593814.1| Severe acute respiratory syndrome coronavirus 2 TKYE630094_2020 genomic RNA, complete genome',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 981,
+  endAlignment: 29520,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 72
+}
+{
+  accno: 'LC593813',
+  subjectTitle: 'gi|1934860890|dbj|LC593813.1| Severe acute respiratory syndrome coronavirus 2 TKYE630074_2020 genomic RNA, complete genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 991,
+  endAlignment: 29530,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 74
+}
+{
+  accno: 'LC593812',
+  subjectTitle: 'gi|1934860877|dbj|LC593812.1| Severe acute respiratory syndrome coronavirus 2 TKYET29933_2020 genomic RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC593811',
+  subjectTitle: 'gi|1934860864|dbj|LC593811.1| Severe acute respiratory syndrome coronavirus 2 TKYE627000_2020 genomic RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC593810',
+  subjectTitle: 'gi|1934860851|dbj|LC593810.1| Severe acute respiratory syndrome coronavirus 2 TKYE624705_2020 genomic RNA, complete genome',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 73
+}
+{
+  accno: 'LC593809',
+  subjectTitle: 'gi|1934860838|dbj|LC593809.1| Severe acute respiratory syndrome coronavirus 2 TKYE622414_2020 genomic RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 976,
+  endAlignment: 29515,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC593808',
+  subjectTitle: 'gi|1934860825|dbj|LC593808.1| Severe acute respiratory syndrome coronavirus 2 TKYE622411_2020 genomic RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 970,
+  endAlignment: 29509,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC593807',
+  subjectTitle: 'gi|1934860812|dbj|LC593807.1| Severe acute respiratory syndrome coronavirus 2 TKYT22395_2020 genomic RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 990,
+  endAlignment: 29529,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC593806',
+  subjectTitle: 'gi|1934860799|dbj|LC593806.1| Severe acute respiratory syndrome coronavirus 2 TKYE622393_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 985,
+  endAlignment: 29289,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593805',
+  subjectTitle: 'gi|1934860786|dbj|LC593805.1| Severe acute respiratory syndrome coronavirus 2 TKYE622391_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 991,
+  endAlignment: 29295,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593804',
+  subjectTitle: 'gi|1934860773|dbj|LC593804.1| Severe acute respiratory syndrome coronavirus 2 TKYE622388_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 993,
+  endAlignment: 29297,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593803',
+  subjectTitle: 'gi|1934860760|dbj|LC593803.1| Severe acute respiratory syndrome coronavirus 2 TKYE622387_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 987,
+  endAlignment: 29291,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC593802',
+  subjectTitle: 'gi|1934860747|dbj|LC593802.1| Severe acute respiratory syndrome coronavirus 2 TKYT22355 genomic RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 989,
+  endAlignment: 29528,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC593801',
+  subjectTitle: 'gi|1934860734|dbj|LC593801.1| Severe acute respiratory syndrome coronavirus 2 TKYT22342_2020 genomic RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 995,
+  endAlignment: 29534,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC581376',
+  subjectTitle: 'gi|1917079041|dbj|LC581376.1| Severe acute respiratory syndrome coronavirus 2 TKYE64688d_2020 genomic RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 992,
+  endAlignment: 29528,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28537,
+  noreads: 77
+}
+{
+  accno: 'LC581375',
+  subjectTitle: 'gi|1917079028|dbj|LC581375.1| Severe acute respiratory syndrome coronavirus 2 TKYE64688_2020 genomic RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 992,
+  endAlignment: 29531,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC581374',
+  subjectTitle: 'gi|1917079015|dbj|LC581374.1| Severe acute respiratory syndrome coronavirus 2 TKYE63751d_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 982,
+  endAlignment: 29518,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28537,
+  noreads: 76
+}
+{
+  accno: 'LC581373',
+  subjectTitle: 'gi|1917079002|dbj|LC581373.1| Severe acute respiratory syndrome coronavirus 2 TKYE63751_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC581372',
+  subjectTitle: 'gi|1917078989|dbj|LC581372.1| Severe acute respiratory syndrome coronavirus 2 TKYE63738d_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 985,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28537,
+  noreads: 76
+}
+{
+  accno: 'LC581371',
+  subjectTitle: 'gi|1917078976|dbj|LC581371.1| Severe acute respiratory syndrome coronavirus 2 TKYE63738_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC581370',
+  subjectTitle: 'gi|1917078963|dbj|LC581370.1| Severe acute respiratory syndrome coronavirus 2 TKYE63736d_2020 genomic RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28537,
+  noreads: 78
+}
+{
+  accno: 'LC581369',
+  subjectTitle: 'gi|1917078950|dbj|LC581369.1| Severe acute respiratory syndrome coronavirus 2 TKYE63736_2020 genomic RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC581368',
+  subjectTitle: 'gi|1917078937|dbj|LC581368.1| Severe acute respiratory syndrome coronavirus 2 TKYE63558d_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 985,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28537,
+  noreads: 76
+}
+{
+  accno: 'LC581367',
+  subjectTitle: 'gi|1917078924|dbj|LC581367.1| Severe acute respiratory syndrome coronavirus 2 TKYE63558_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC581366',
+  subjectTitle: 'gi|1917078911|dbj|LC581366.1| Severe acute respiratory syndrome coronavirus 2 TKYE63557d_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 994,
+  endAlignment: 29530,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28537,
+  noreads: 76
+}
+{
+  accno: 'LC581365',
+  subjectTitle: 'gi|1917078898|dbj|LC581365.1| Severe acute respiratory syndrome coronavirus 2 TKYE63557_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 994,
+  endAlignment: 29533,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC581364',
+  subjectTitle: 'gi|1917078885|dbj|LC581364.1| Severe acute respiratory syndrome coronavirus 2 TKYE63319_2020 genomic RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC573286',
+  subjectTitle: 'gi|1894802244|dbj|LC573286.1| Severe acute respiratory syndrome coronavirus 2 TKYE620260_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 991,
+  endAlignment: 29530,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC573285',
+  subjectTitle: 'gi|1894802232|dbj|LC573285.1| Severe acute respiratory syndrome coronavirus 2 TKYE620228_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC573284',
+  subjectTitle: 'gi|1894802219|dbj|LC573284.1| Severe acute respiratory syndrome coronavirus 2 TKYE620226_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 984,
+  endAlignment: 29523,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC573283',
+  subjectTitle: 'gi|1894802206|dbj|LC573283.1| Severe acute respiratory syndrome coronavirus 2 TKYE618779_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC573282',
+  subjectTitle: 'gi|1894802193|dbj|LC573282.1| Severe acute respiratory syndrome coronavirus 2 TKYE618749_2020 genomic RNA, complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC573281',
+  subjectTitle: 'gi|1894802180|dbj|LC573281.1| Severe acute respiratory syndrome coronavirus 2 TKYE618727_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC573280',
+  subjectTitle: 'gi|1894802167|dbj|LC573280.1| Severe acute respiratory syndrome coronavirus 2 TKYE618735_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 980,
+  endAlignment: 29519,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC573279',
+  subjectTitle: 'gi|1894802154|dbj|LC573279.1| Severe acute respiratory syndrome coronavirus 2 TKYE618937_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC573278',
+  subjectTitle: 'gi|1894802141|dbj|LC573278.1| Severe acute respiratory syndrome coronavirus 2 TKYE618930_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 986,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC573277',
+  subjectTitle: 'gi|1894802129|dbj|LC573277.1| Severe acute respiratory syndrome coronavirus 2 TKYE618929_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 983,
+  endAlignment: 29522,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC573276',
+  subjectTitle: 'gi|1894802116|dbj|LC573276.1| Severe acute respiratory syndrome coronavirus 2 TKYE618928_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC573275',
+  subjectTitle: 'gi|1894802103|dbj|LC573275.1| Severe acute respiratory syndrome coronavirus 2 TKYE618796_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC573274',
+  subjectTitle: 'gi|1894802090|dbj|LC573274.1| Severe acute respiratory syndrome coronavirus 2 TKYE618795_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 981,
+  endAlignment: 29520,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC573273',
+  subjectTitle: 'gi|1894802077|dbj|LC573273.1| Severe acute respiratory syndrome coronavirus 2 TKYE618765_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC567859',
+  subjectTitle: 'gi|1868806246|dbj|LC567859.1| Severe acute respiratory syndrome coronavirus 2 TKY17926_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 979,
+  endAlignment: 29518,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC567858',
+  subjectTitle: 'gi|1868806234|dbj|LC567858.1| Severe acute respiratory syndrome coronavirus 2 TKY17904_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC567857',
+  subjectTitle: 'gi|1868806222|dbj|LC567857.1| Severe acute respiratory syndrome coronavirus 2 TKY17873_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 981,
+  endAlignment: 29520,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LC567856',
+  subjectTitle: 'gi|1868806210|dbj|LC567856.1| Severe acute respiratory syndrome coronavirus 2 TKYE615406_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 987,
+  endAlignment: 29526,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC567855',
+  subjectTitle: 'gi|1868806198|dbj|LC567855.1| Severe acute respiratory syndrome coronavirus 2 TKYE614903_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC567854',
+  subjectTitle: 'gi|1868806186|dbj|LC567854.1| Severe acute respiratory syndrome coronavirus 2 TKYE615221_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC567853',
+  subjectTitle: 'gi|1868806174|dbj|LC567853.1| Severe acute respiratory syndrome coronavirus 2 TKYE615220_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC567852',
+  subjectTitle: 'gi|1868806162|dbj|LC567852.1| Severe acute respiratory syndrome coronavirus 2 TKYE614862_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC567851',
+  subjectTitle: 'gi|1868806150|dbj|LC567851.1| Severe acute respiratory syndrome coronavirus 2 TKYE614327_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC567850',
+  subjectTitle: 'gi|1868806138|dbj|LC567850.1| Severe acute respiratory syndrome coronavirus 2 TKYE615178_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 170,
+  endAlignment: 29524,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC567849',
+  subjectTitle: 'gi|1868806126|dbj|LC567849.1| Severe acute respiratory syndrome coronavirus 2 TKYE614866_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 986,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC567848',
+  subjectTitle: 'gi|1868806114|dbj|LC567848.1| Severe acute respiratory syndrome coronavirus 2 TKYE615667_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 986,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC567847',
+  subjectTitle: 'gi|1868806102|dbj|LC567847.1| Severe acute respiratory syndrome coronavirus 2 TKYE615664_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 986,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC567846',
+  subjectTitle: 'gi|1868806090|dbj|LC567846.1| Severe acute respiratory syndrome coronavirus 2 TKYE615484_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC567845',
+  subjectTitle: 'gi|1868806078|dbj|LC567845.1| Severe acute respiratory syndrome coronavirus 2 TKYE615419_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC565414',
+  subjectTitle: 'gi|1868806063|dbj|LC565414.1| Severe acute respiratory syndrome coronavirus 2 TKYE613175_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 986,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC565412',
+  subjectTitle: 'gi|1868806039|dbj|LC565412.1| Severe acute respiratory syndrome coronavirus 2 TKYE613035_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC565411',
+  subjectTitle: 'gi|1868806027|dbj|LC565411.1| Severe acute respiratory syndrome coronavirus 2 TKYV12689_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC565410',
+  subjectTitle: 'gi|1868806015|dbj|LC565410.1| Severe acute respiratory syndrome coronavirus 2 TKYE612251_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 989,
+  endAlignment: 29528,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC565409',
+  subjectTitle: 'gi|1868806003|dbj|LC565409.1| Severe acute respiratory syndrome coronavirus 2 TKYV12527_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC565408',
+  subjectTitle: 'gi|1868805991|dbj|LC565408.1| Severe acute respiratory syndrome coronavirus 2 TKYE611821_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC565407',
+  subjectTitle: 'gi|1868805979|dbj|LC565407.1| Severe acute respiratory syndrome coronavirus 2 TKYE611820_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 986,
+  endAlignment: 29525,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556323',
+  subjectTitle: 'gi|1863479885|dbj|LC556323.1| Severe acute respiratory syndrome coronavirus 2 TKYVE12492_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556322',
+  subjectTitle: 'gi|1863479873|dbj|LC556322.1| Severe acute respiratory syndrome coronavirus 2 TKYVE11964_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 984,
+  endAlignment: 29523,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556321',
+  subjectTitle: 'gi|1863479861|dbj|LC556321.1| Severe acute respiratory syndrome coronavirus 2 TKYE610850_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 990,
+  endAlignment: 29294,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 78
+}
+{
+  accno: 'LC556320',
+  subjectTitle: 'gi|1863479849|dbj|LC556320.1| Severe acute respiratory syndrome coronavirus 2 TKYE610670_2020 genomic RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556319',
+  subjectTitle: 'gi|1863479837|dbj|LC556319.1| Severe acute respiratory syndrome coronavirus 2 TKYE610510_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 987,
+  endAlignment: 29526,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556318',
+  subjectTitle: 'gi|1863479825|dbj|LC556318.1| Severe acute respiratory syndrome coronavirus 2 TKYE610504_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556317',
+  subjectTitle: 'gi|1863479813|dbj|LC556317.1| Severe acute respiratory syndrome coronavirus 2 TKYE610497_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC556316',
+  subjectTitle: 'gi|1863479801|dbj|LC556316.1| Severe acute respiratory syndrome coronavirus 2 TKYE610419_2020 genomic RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC556315',
+  subjectTitle: 'gi|1863479789|dbj|LC556315.1| Severe acute respiratory syndrome coronavirus 2 TKYE65734_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 984,
+  endAlignment: 29523,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC572070',
+  subjectTitle: 'gi|1886868179|dbj|LC572070.1| Severe acute respiratory syndrome coronavirus 2 TKYE615177_2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 169,
+  endAlignment: 29523,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC572069',
+  subjectTitle: 'gi|1886868166|dbj|LC572069.1| Severe acute respiratory syndrome coronavirus 2 TKYE614992_2020 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC572068',
+  subjectTitle: 'gi|1886868153|dbj|LC572068.1| Severe acute respiratory syndrome coronavirus 2 TKYE614865_2020 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC572067',
+  subjectTitle: 'gi|1886868140|dbj|LC572067.1| Severe acute respiratory syndrome coronavirus 2 TKYE610513_2020 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC571041',
+  subjectTitle: 'gi|1878067945|dbj|LC571041.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0890 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571040',
+  subjectTitle: 'gi|1878067944|dbj|LC571040.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0880 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571039',
+  subjectTitle: 'gi|1878067943|dbj|LC571039.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0827 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571038',
+  subjectTitle: 'gi|1878067942|dbj|LC571038.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0804 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571037',
+  subjectTitle: 'gi|1878067941|dbj|LC571037.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0803 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 921,
+  endAlignment: 29460,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571036',
+  subjectTitle: 'gi|1878067940|dbj|LC571036.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0802 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571035',
+  subjectTitle: 'gi|1878067939|dbj|LC571035.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0786 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 971,
+  endAlignment: 29510,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571034',
+  subjectTitle: 'gi|1878067938|dbj|LC571034.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0785 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571032',
+  subjectTitle: 'gi|1878067936|dbj|LC571032.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0779 RNA, contig 1',
+  percentIdentity: 98.4375,
+  startAlignment: 967,
+  endAlignment: 21715,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 20749,
+  noreads: 64
+}
+{
+  accno: 'LC571031',
+  subjectTitle: 'gi|1878067935|dbj|LC571031.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0765 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 939,
+  endAlignment: 29243,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571030',
+  subjectTitle: 'gi|1878067934|dbj|LC571030.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0764 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 994,
+  endAlignment: 29298,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571025',
+  subjectTitle: 'gi|1878067929|dbj|LC571025.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0752 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 993,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571024',
+  subjectTitle: 'gi|1878067928|dbj|LC571024.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0743 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 964,
+  endAlignment: 29503,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC571023',
+  subjectTitle: 'gi|1878067927|dbj|LC571023.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0724 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 964,
+  endAlignment: 29503,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571022',
+  subjectTitle: 'gi|1878067926|dbj|LC571022.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0703 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 962,
+  endAlignment: 29266,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571020',
+  subjectTitle: 'gi|1878067924|dbj|LC571020.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0700 RNA, contig 1',
+  percentIdentity: 98.4375,
+  startAlignment: 939,
+  endAlignment: 21687,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 20749,
+  noreads: 64
+}
+{
+  accno: 'LC571019',
+  subjectTitle: 'gi|1878067923|dbj|LC571019.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0699 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571014',
+  subjectTitle: 'gi|1878067918|dbj|LC571014.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0690 RNA, contig 1',
+  percentIdentity: 98.36065573770492,
+  startAlignment: 963,
+  endAlignment: 21711,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 20749,
+  noreads: 61
+}
+{
+  accno: 'LC571013',
+  subjectTitle: 'gi|1878067917|dbj|LC571013.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0687 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571012',
+  subjectTitle: 'gi|1878067916|dbj|LC571012.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0654 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 920,
+  endAlignment: 29224,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571011',
+  subjectTitle: 'gi|1878067915|dbj|LC571011.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0645 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 972,
+  endAlignment: 29511,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571010',
+  subjectTitle: 'gi|1878067914|dbj|LC571010.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0644 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571009',
+  subjectTitle: 'gi|1878067913|dbj|LC571009.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0588 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 966,
+  endAlignment: 29270,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571008',
+  subjectTitle: 'gi|1878067912|dbj|LC571008.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0568 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 941,
+  endAlignment: 29480,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571007',
+  subjectTitle: 'gi|1878067911|dbj|LC571007.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0544 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC571006',
+  subjectTitle: 'gi|1878067910|dbj|LC571006.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0543 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 964,
+  endAlignment: 29503,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC571005',
+  subjectTitle: 'gi|1878067909|dbj|LC571005.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0482 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC571004',
+  subjectTitle: 'gi|1878067908|dbj|LC571004.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0481 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC571003',
+  subjectTitle: 'gi|1878067907|dbj|LC571003.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0476 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 920,
+  endAlignment: 29224,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571002',
+  subjectTitle: 'gi|1878067906|dbj|LC571002.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0464 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 964,
+  endAlignment: 29268,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC571000',
+  subjectTitle: 'gi|1878067904|dbj|LC571000.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0462 RNA, contig 1',
+  percentIdentity: 98.4375,
+  startAlignment: 965,
+  endAlignment: 21713,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 20749,
+  noreads: 64
+}
+{
+  accno: 'LC570999',
+  subjectTitle: 'gi|1878067903|dbj|LC570999.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0457 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570998',
+  subjectTitle: 'gi|1878067902|dbj|LC570998.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0438 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570997',
+  subjectTitle: 'gi|1878067901|dbj|LC570997.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0361 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 978,
+  endAlignment: 29517,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC570996',
+  subjectTitle: 'gi|1878067900|dbj|LC570996.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0357 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 989,
+  endAlignment: 29293,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC570995',
+  subjectTitle: 'gi|1878067899|dbj|LC570995.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0346 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570994',
+  subjectTitle: 'gi|1878067898|dbj|LC570994.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0344 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 943,
+  endAlignment: 29482,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570993',
+  subjectTitle: 'gi|1878067897|dbj|LC570993.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0328 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570992',
+  subjectTitle: 'gi|1878067896|dbj|LC570992.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0319 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 943,
+  endAlignment: 29482,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570991',
+  subjectTitle: 'gi|1878067895|dbj|LC570991.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0311 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 943,
+  endAlignment: 29482,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570990',
+  subjectTitle: 'gi|1878067894|dbj|LC570990.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0294 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570989',
+  subjectTitle: 'gi|1878067893|dbj|LC570989.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0290 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 994,
+  endAlignment: 29533,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC570988',
+  subjectTitle: 'gi|1878067892|dbj|LC570988.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0289 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570987',
+  subjectTitle: 'gi|1878067891|dbj|LC570987.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0287 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 965,
+  endAlignment: 29269,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC570986',
+  subjectTitle: 'gi|1878067890|dbj|LC570986.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0286 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 905,
+  endAlignment: 29209,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC570985',
+  subjectTitle: 'gi|1878067889|dbj|LC570985.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0278 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 943,
+  endAlignment: 29247,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC570984',
+  subjectTitle: 'gi|1878067888|dbj|LC570984.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0274 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570983',
+  subjectTitle: 'gi|1878067887|dbj|LC570983.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0236 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570982',
+  subjectTitle: 'gi|1878067886|dbj|LC570982.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0200 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 994,
+  endAlignment: 29533,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC570981',
+  subjectTitle: 'gi|1878067885|dbj|LC570981.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0196 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 966,
+  endAlignment: 29505,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570980',
+  subjectTitle: 'gi|1878067884|dbj|LC570980.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0191 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 965,
+  endAlignment: 29269,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC570979',
+  subjectTitle: 'gi|1878067883|dbj|LC570979.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0190 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570978',
+  subjectTitle: 'gi|1878067882|dbj|LC570978.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0184 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570977',
+  subjectTitle: 'gi|1878067881|dbj|LC570977.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0158 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570976',
+  subjectTitle: 'gi|1878067880|dbj|LC570976.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0152 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LC570975',
+  subjectTitle: 'gi|1878067879|dbj|LC570975.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0134 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 994,
+  endAlignment: 29533,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570974',
+  subjectTitle: 'gi|1878067878|dbj|LC570974.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0133 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570973',
+  subjectTitle: 'gi|1878067877|dbj|LC570973.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0121 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570972',
+  subjectTitle: 'gi|1878067876|dbj|LC570972.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0107 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 994,
+  endAlignment: 29533,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570971',
+  subjectTitle: 'gi|1878067875|dbj|LC570971.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0104 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570970',
+  subjectTitle: 'gi|1878067874|dbj|LC570970.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0078 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570969',
+  subjectTitle: 'gi|1878067873|dbj|LC570969.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0077 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 965,
+  endAlignment: 29504,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570968',
+  subjectTitle: 'gi|1878067872|dbj|LC570968.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0065 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 920,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570967',
+  subjectTitle: 'gi|1878067871|dbj|LC570967.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0059 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC570963',
+  subjectTitle: 'gi|1878067867|dbj|LC570963.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0037 RNA, complete genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 964,
+  endAlignment: 29268,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 74
+}
+{
+  accno: 'LC570962',
+  subjectTitle: 'gi|1878067866|dbj|LC570962.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0027 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 964,
+  endAlignment: 29503,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC570961',
+  subjectTitle: 'gi|1878067865|dbj|LC570961.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0005 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 920,
+  endAlignment: 29224,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 77
+}
+{
+  accno: 'LC565413',
+  subjectTitle: 'gi|1868806051|dbj|LC565413.1| Severe acute respiratory syndrome coronavirus 2 TKYE613173_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC556324',
+  subjectTitle: 'gi|1863479897|dbj|LC556324.1| Severe acute respiratory syndrome coronavirus 2 TKYE613173_2020 genomic RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 985,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC553270',
+  subjectTitle: 'gi|1857186396|dbj|LC553270.1| Severe acute respiratory syndrome coronavirus 2 TKYE63442_2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 168,
+  endAlignment: 29522,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC553269',
+  subjectTitle: 'gi|1857186263|dbj|LC553269.1| Severe acute respiratory syndrome coronavirus 2 TKYE6938_2020 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 983,
+  endAlignment: 29522,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC553259',
+  subjectTitle: 'gi|1851865555|dbj|LC553259.2| Severe acute respiratory syndrome coronavirus 2 TKY10256_2020 RNA, nearly complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 973,
+  endAlignment: 29512,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LC553261',
+  subjectTitle: 'gi|1850111864|dbj|LC553261.1| Severe acute respiratory syndrome coronavirus 2 TKY10461_2020 RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 979,
+  endAlignment: 29518,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC553263',
+  subjectTitle: 'gi|1850111890|dbj|LC553263.1| Severe acute respiratory syndrome coronavirus 2 TKY10468_2020 RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 979,
+  endAlignment: 29518,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC553262',
+  subjectTitle: 'gi|1850111877|dbj|LC553262.1| Severe acute respiratory syndrome coronavirus 2 TKY10466_2020 RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 977,
+  endAlignment: 29516,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC553260',
+  subjectTitle: 'gi|1850111851|dbj|LC553260.1| Severe acute respiratory syndrome coronavirus 2 TKY10459_2020 RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 980,
+  endAlignment: 29519,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC553258',
+  subjectTitle: 'gi|1850111825|dbj|LC553258.1| Severe acute respiratory syndrome coronavirus 2 TKY9810_2020 RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 982,
+  endAlignment: 29521,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC553257',
+  subjectTitle: 'gi|1850111812|dbj|LC553257.1| Severe acute respiratory syndrome coronavirus 2 TKY9588_2020 RNA, nearly complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 979,
+  endAlignment: 29518,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 79
+}
+{
+  accno: 'LC549340',
+  subjectTitle: 'gi|1850102157|dbj|LC549340.1| Severe acute respiratory syndrome coronavirus 2 TKY3583_2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547533',
+  subjectTitle: 'gi|1842103920|dbj|LC547533.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P5-3/2020 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 150,
+  endAlignment: 29504,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LC547532',
+  subjectTitle: 'gi|1842103909|dbj|LC547532.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P5-2/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547531',
+  subjectTitle: 'gi|1842103898|dbj|LC547531.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P5-1/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547530',
+  subjectTitle: 'gi|1842103887|dbj|LC547530.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-8/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547529',
+  subjectTitle: 'gi|1842103876|dbj|LC547529.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-7/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 148,
+  endAlignment: 29502,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547528',
+  subjectTitle: 'gi|1842103865|dbj|LC547528.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-6/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547527',
+  subjectTitle: 'gi|1842103854|dbj|LC547527.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-5/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547526',
+  subjectTitle: 'gi|1842103843|dbj|LC547526.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-4/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 148,
+  endAlignment: 29502,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547525',
+  subjectTitle: 'gi|1842103832|dbj|LC547525.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-3/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 147,
+  endAlignment: 29501,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547524',
+  subjectTitle: 'gi|1842103821|dbj|LC547524.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-2/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547523',
+  subjectTitle: 'gi|1842103810|dbj|LC547523.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P4-1/2020 RNA, complete genome',
+  percentIdentity: 98.75,
+  startAlignment: 147,
+  endAlignment: 29501,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LC547522',
+  subjectTitle: 'gi|1842103799|dbj|LC547522.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P3-2/2020 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LC547521',
+  subjectTitle: 'gi|1842103788|dbj|LC547521.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P3-1/2020 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 105,
+  endAlignment: 29459,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LC547520',
+  subjectTitle: 'gi|1842103777|dbj|LC547520.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P2-2/2020 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 128,
+  endAlignment: 29482,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LC547519',
+  subjectTitle: 'gi|1842103766|dbj|LC547519.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P2-1/2020 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 106,
+  endAlignment: 29460,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LC547518',
+  subjectTitle: 'gi|1842103755|dbj|LC547518.1| Severe acute respiratory syndrome coronavirus 2 hCoV-19/Japan/P1/2020 RNA, complete genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 128,
+  endAlignment: 29482,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LC542976',
+  subjectTitle: 'gi|1834204891|dbj|LC542976.1| Severe acute respiratory syndrome coronavirus 2 TKYE6968_2020 RNA, complete genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LC542809',
+  subjectTitle: 'gi|1833634221|dbj|LC542809.1| Severe acute respiratory syndrome coronavirus 2 TKYE6947_2020 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LC529905',
+  subjectTitle: 'gi|1820247323|dbj|LC529905.1| Severe acute respiratory syndrome coronavirus 2 TKYE6182_2020 RNA, complete genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LR991699',
+  subjectTitle: 'gi|1954669020|emb|LR991699.2| Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite',
+  percentIdentity: 98.57142857142857,
+  startAlignment: 182,
+  endAlignment: 29518,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29337,
+  noreads: 70
+}
+{
+  accno: 'LR991698',
+  subjectTitle: 'gi|1954669019|emb|LR991698.2| Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite',
+  percentIdentity: 98.59154929577464,
+  startAlignment: 182,
+  endAlignment: 29518,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29337,
+  noreads: 71
+}
+{
+  accno: 'LR963338',
+  subjectTitle: 'gi|1969817442|emb|LR963338.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EF939 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 157,
+  endAlignment: 29511,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963319',
+  subjectTitle: 'gi|1969817441|emb|LR963319.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0962 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963212',
+  subjectTitle: 'gi|1969817440|emb|LR963212.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC705 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 152,
+  endAlignment: 29507,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29356,
+  noreads: 72
+}
+{
+  accno: 'LR963343',
+  subjectTitle: 'gi|1969817438|emb|LR963343.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F072C genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 154,
+  endAlignment: 29508,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963342',
+  subjectTitle: 'gi|1969817437|emb|LR963342.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0A32 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 152,
+  endAlignment: 29503,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29352,
+  noreads: 72
+}
+{
+  accno: 'LR963341',
+  subjectTitle: 'gi|1969817436|emb|LR963341.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F06C5 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963349',
+  subjectTitle: 'gi|1969817435|emb|LR963349.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F099F genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963348',
+  subjectTitle: 'gi|1969817434|emb|LR963348.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFEB2 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 960,
+  endAlignment: 29264,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 75
+}
+{
+  accno: 'LR963353',
+  subjectTitle: 'gi|1969817433|emb|LR963353.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0452 genome assembly, chromosome: 1',
+  percentIdentity: 98.59154929577464,
+  startAlignment: 174,
+  endAlignment: 29528,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 71
+}
+{
+  accno: 'LR963352',
+  subjectTitle: 'gi|1969817432|emb|LR963352.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0A6F genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 128,
+  endAlignment: 29482,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963327',
+  subjectTitle: 'gi|1969817431|emb|LR963327.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F04BC genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 73
+}
+{
+  accno: 'LR963326',
+  subjectTitle: 'gi|1969817430|emb|LR963326.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFDE2 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 992,
+  endAlignment: 29296,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LR963325',
+  subjectTitle: 'gi|1969817429|emb|LR963325.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F04F8 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963324',
+  subjectTitle: 'gi|1969817428|emb|LR963324.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0A23 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963323',
+  subjectTitle: 'gi|1969817427|emb|LR963323.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFFBF genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 1342,
+  endAlignment: 29297,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 27956,
+  noreads: 73
+}
+{
+  accno: 'LR963322',
+  subjectTitle: 'gi|1969817426|emb|LR963322.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F08DE genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 959,
+  endAlignment: 29263,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 75
+}
+{
+  accno: 'LR963321',
+  subjectTitle: 'gi|1969817425|emb|LR963321.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EEEFF genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 158,
+  endAlignment: 29277,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 77
+}
+{
+  accno: 'LR963336',
+  subjectTitle: 'gi|1969817424|emb|LR963336.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0759 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963335',
+  subjectTitle: 'gi|1969817423|emb|LR963335.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFD6A genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 180,
+  endAlignment: 29299,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 77
+}
+{
+  accno: 'LR963334',
+  subjectTitle: 'gi|1969817422|emb|LR963334.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFDD3 genome assembly, chromosome: 1',
+  percentIdentity: 98.59154929577464,
+  startAlignment: 141,
+  endAlignment: 29260,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 71
+}
+{
+  accno: 'LR963333',
+  subjectTitle: 'gi|1969817421|emb|LR963333.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0513 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 177,
+  endAlignment: 29528,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29352,
+  noreads: 72
+}
+{
+  accno: 'LR963332',
+  subjectTitle: 'gi|1969817420|emb|LR963332.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFE85 genome assembly, chromosome: 1',
+  percentIdentity: 98.52941176470588,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 68
+}
+{
+  accno: 'LR963331',
+  subjectTitle: 'gi|1969817419|emb|LR963331.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFE1C genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 960,
+  endAlignment: 29264,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 74
+}
+{
+  accno: 'LR963330',
+  subjectTitle: 'gi|1969817418|emb|LR963330.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFE58 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 959,
+  endAlignment: 29263,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 74
+}
+{
+  accno: 'LR963209',
+  subjectTitle: 'gi|1969817417|emb|LR963209.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC41D genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963208',
+  subjectTitle: 'gi|1969817415|emb|LR963208.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB37B genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 157,
+  endAlignment: 29511,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963207',
+  subjectTitle: 'gi|1969817414|emb|LR963207.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC7AB genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 128,
+  endAlignment: 29482,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963206',
+  subjectTitle: 'gi|1969817413|emb|LR963206.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC732 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 170,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963217',
+  subjectTitle: 'gi|1969817412|emb|LR963217.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC750 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 166,
+  endAlignment: 29520,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963216',
+  subjectTitle: 'gi|1969817411|emb|LR963216.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC8B7 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963215',
+  subjectTitle: 'gi|1969817410|emb|LR963215.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC802 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 153,
+  endAlignment: 29507,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963221',
+  subjectTitle: 'gi|1969817409|emb|LR963221.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC4E0 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963220',
+  subjectTitle: 'gi|1969817408|emb|LR963220.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB43C genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963219',
+  subjectTitle: 'gi|1969817407|emb|LR963219.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC5CF genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 170,
+  endAlignment: 29524,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 75
+}
+{
+  accno: 'LR963227',
+  subjectTitle: 'gi|1969817406|emb|LR963227.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC741 genome assembly, chromosome: 1',
+  percentIdentity: 98.57142857142857,
+  startAlignment: 152,
+  endAlignment: 29507,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29356,
+  noreads: 70
+}
+{
+  accno: 'LR963226',
+  subjectTitle: 'gi|1969817405|emb|LR963226.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC714 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963225',
+  subjectTitle: 'gi|1969817402|emb|LR963225.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC7E7 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963224',
+  subjectTitle: 'gi|1969817401|emb|LR963224.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB29C genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 995,
+  endAlignment: 29534,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 76
+}
+{
+  accno: 'LR963235',
+  subjectTitle: 'gi|1969817400|emb|LR963235.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB34E genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963234',
+  subjectTitle: 'gi|1969817399|emb|LR963234.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC6EA genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 145,
+  endAlignment: 29499,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963233',
+  subjectTitle: 'gi|1969817398|emb|LR963233.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC6F9 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963232',
+  subjectTitle: 'gi|1969817397|emb|LR963232.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC626 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 166,
+  endAlignment: 29520,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963231',
+  subjectTitle: 'gi|1969817396|emb|LR963231.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC644 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963312',
+  subjectTitle: 'gi|1969817395|emb|LR963312.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F07FF genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 145,
+  endAlignment: 29264,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 78
+}
+{
+  accno: 'LR963309',
+  subjectTitle: 'gi|1969817394|emb|LR963309.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0461 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 959,
+  endAlignment: 29263,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 74
+}
+{
+  accno: 'LR963306',
+  subjectTitle: 'gi|1969817393|emb|LR963306.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0A50 genome assembly, chromosome: 1',
+  percentIdentity: 98.57142857142857,
+  startAlignment: 144,
+  endAlignment: 29492,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29349,
+  noreads: 70
+}
+{
+  accno: 'LR963316',
+  subjectTitle: 'gi|1969817392|emb|LR963316.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F05F5 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 144,
+  endAlignment: 29495,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29352,
+  noreads: 72
+}
+{
+  accno: 'LR963315',
+  subjectTitle: 'gi|1969817391|emb|LR963315.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0917 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963204',
+  subjectTitle: 'gi|1969817390|emb|LR963204.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC5B0 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963203',
+  subjectTitle: 'gi|1969817389|emb|LR963203.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB36C genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963202',
+  subjectTitle: 'gi|1969817388|emb|LR963202.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC6DB genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963201',
+  subjectTitle: 'gi|1969817387|emb|LR963201.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC5DE genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 154,
+  endAlignment: 29508,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963200',
+  subjectTitle: 'gi|1969817386|emb|LR963200.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC69F genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 154,
+  endAlignment: 29508,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963199',
+  subjectTitle: 'gi|1969817385|emb|LR963199.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC5ED genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963198',
+  subjectTitle: 'gi|1969817384|emb|LR963198.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB232 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 146,
+  endAlignment: 29500,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963197',
+  subjectTitle: 'gi|1969817383|emb|LR963197.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB2F6 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963196',
+  subjectTitle: 'gi|1969817382|emb|LR963196.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC653 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 162,
+  endAlignment: 29516,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963195',
+  subjectTitle: 'gi|1969817381|emb|LR963195.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB33F genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 177,
+  endAlignment: 29531,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963194',
+  subjectTitle: 'gi|1969817380|emb|LR963194.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC5FC genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963193',
+  subjectTitle: 'gi|1969817379|emb|LR963193.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC3E3 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 177,
+  endAlignment: 29519,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29343,
+  noreads: 79
+}
+{
+  accno: 'LR963192',
+  subjectTitle: 'gi|1969817378|emb|LR963192.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC6BD genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963191',
+  subjectTitle: 'gi|1969817377|emb|LR963191.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC77E genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 179,
+  endAlignment: 29533,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963190',
+  subjectTitle: 'gi|1969817376|emb|LR963190.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC6AE genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR963189',
+  subjectTitle: 'gi|1969817375|emb|LR963189.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC87B genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963188',
+  subjectTitle: 'gi|1969817374|emb|LR963188.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC680 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 166,
+  endAlignment: 29520,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963187',
+  subjectTitle: 'gi|1969817373|emb|LR963187.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB3D5 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963186',
+  subjectTitle: 'gi|1969817372|emb|LR963186.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC899 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963185',
+  subjectTitle: 'gi|1969817371|emb|LR963185.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB26F genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 154,
+  endAlignment: 29508,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963184',
+  subjectTitle: 'gi|1969817370|emb|LR963184.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC671 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963183',
+  subjectTitle: 'gi|1969817369|emb|LR963183.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB311 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 146,
+  endAlignment: 29500,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963182',
+  subjectTitle: 'gi|1969817368|emb|LR963182.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC7F6 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 960,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28539,
+  noreads: 75
+}
+{
+  accno: 'LR963181',
+  subjectTitle: 'gi|1969817367|emb|LR963181.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC529 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 166,
+  endAlignment: 29517,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29352,
+  noreads: 78
+}
+{
+  accno: 'LR963180',
+  subjectTitle: 'gi|1969817366|emb|LR963180.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC42C genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 78
+}
+{
+  accno: 'LR963179',
+  subjectTitle: 'gi|1969817365|emb|LR963179.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC608 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 180,
+  endAlignment: 29517,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29338,
+  noreads: 80
+}
+{
+  accno: 'LR963178',
+  subjectTitle: 'gi|1969817364|emb|LR963178.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC8C6 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 171,
+  endAlignment: 29525,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963177',
+  subjectTitle: 'gi|1969817363|emb|LR963177.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC617 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 176,
+  endAlignment: 29530,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963176',
+  subjectTitle: 'gi|1969817362|emb|LR963176.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC35C genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963175',
+  subjectTitle: 'gi|1969817361|emb|LR963175.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC78D genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963174',
+  subjectTitle: 'gi|1969817360|emb|LR963174.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC76F genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963173',
+  subjectTitle: 'gi|1969817358|emb|LR963173.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EBEC5 genome assembly, chromosome: 1',
+  percentIdentity: 98.59154929577464,
+  startAlignment: 144,
+  endAlignment: 29497,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29354,
+  noreads: 71
+}
+{
+  accno: 'LR963172',
+  subjectTitle: 'gi|1969817357|emb|LR963172.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC592 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963171',
+  subjectTitle: 'gi|1969817356|emb|LR963171.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC50B genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 154,
+  endAlignment: 29508,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963170',
+  subjectTitle: 'gi|1969817355|emb|LR963170.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB320 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963169',
+  subjectTitle: 'gi|1969817354|emb|LR963169.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC85D genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 995,
+  endAlignment: 29534,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 74
+}
+{
+  accno: 'LR963143',
+  subjectTitle: 'gi|1969817346|emb|LR963143.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC51A genome assembly, chromosome: 1',
+  percentIdentity: 96,
+  startAlignment: 997,
+  endAlignment: 29535,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 28539,
+  noreads: 25
+}
+{
+  accno: 'LR963155',
+  subjectTitle: 'gi|1969817343|emb|LR963155.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB1DB genome assembly, chromosome: 1',
+  percentIdentity: 97.82608695652173,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 46
+}
+{
+  accno: 'LR963153',
+  subjectTitle: 'gi|1969817341|emb|LR963153.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB27E genome assembly, chromosome: 1',
+  percentIdentity: 97.82608695652173,
+  startAlignment: 182,
+  endAlignment: 28032,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 27851,
+  noreads: 46
+}
+{
+  accno: 'LR963159',
+  subjectTitle: 'gi|1969817334|emb|LR963159.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC7D8 genome assembly, chromosome: 1',
+  percentIdentity: 98.07692307692308,
+  startAlignment: 1346,
+  endAlignment: 29518,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 28173,
+  noreads: 52
+}
+{
+  accno: 'LR963151',
+  subjectTitle: 'gi|1969817330|emb|LR963151.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC538 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963148',
+  subjectTitle: 'gi|1969817328|emb|LR963148.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC556 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963314',
+  subjectTitle: 'gi|1969817325|emb|LR963314.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F09F9 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 996,
+  endAlignment: 29300,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 74
+}
+{
+  accno: 'LR963313',
+  subjectTitle: 'gi|1969817324|emb|LR963313.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0504 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 73
+}
+{
+  accno: 'LR963236',
+  subjectTitle: 'gi|1969817323|emb|LR963236.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC40E genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963230',
+  subjectTitle: 'gi|1969817322|emb|LR963230.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC662 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963229',
+  subjectTitle: 'gi|1969817321|emb|LR963229.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB2AB genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 73
+}
+{
+  accno: 'LR963228',
+  subjectTitle: 'gi|1969817320|emb|LR963228.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC4FF genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963223',
+  subjectTitle: 'gi|1969817319|emb|LR963223.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC4D1 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963222',
+  subjectTitle: 'gi|1969817318|emb|LR963222.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC5A1 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963218',
+  subjectTitle: 'gi|1969817317|emb|LR963218.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC4C2 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 1346,
+  endAlignment: 29536,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28191,
+  noreads: 74
+}
+{
+  accno: 'LR963214',
+  subjectTitle: 'gi|1969817316|emb|LR963214.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC8E4 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963213',
+  subjectTitle: 'gi|1969817315|emb|LR963213.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC389 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963205',
+  subjectTitle: 'gi|1969817314|emb|LR963205.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EB28D genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963329',
+  subjectTitle: 'gi|1969817313|emb|LR963329.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EF23E genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR963328',
+  subjectTitle: 'gi|1969817312|emb|LR963328.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFEA3 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 955,
+  endAlignment: 29259,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 73
+}
+{
+  accno: 'LR963320',
+  subjectTitle: 'gi|1969817311|emb|LR963320.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F067A genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963351',
+  subjectTitle: 'gi|1969817310|emb|LR963351.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFD97 genome assembly, chromosome: 1',
+  percentIdentity: 98.59154929577464,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 71
+}
+{
+  accno: 'LR963350',
+  subjectTitle: 'gi|1969817309|emb|LR963350.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F06E3 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 167,
+  endAlignment: 29521,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 75
+}
+{
+  accno: 'LR963347',
+  subjectTitle: 'gi|1969817308|emb|LR963347.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F0A41 genome assembly, chromosome: 1',
+  percentIdentity: 98.21428571428571,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 56
+}
+{
+  accno: 'LR963346',
+  subjectTitle: 'gi|1969817307|emb|LR963346.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F05C8 genome assembly, chromosome: 1',
+  percentIdentity: 96.7741935483871,
+  startAlignment: 182,
+  endAlignment: 26486,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 26305,
+  noreads: 31
+}
+{
+  accno: 'LR963345',
+  subjectTitle: 'gi|1969817306|emb|LR963345.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFE76 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 959,
+  endAlignment: 29263,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 73
+}
+{
+  accno: 'LR963344',
+  subjectTitle: 'gi|1969817305|emb|LR963344.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F09DB genome assembly, chromosome: 1',
+  percentIdentity: 98.55072463768116,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 69
+}
+{
+  accno: 'LR963340',
+  subjectTitle: 'gi|1969817304|emb|LR963340.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFDC4 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 74
+}
+{
+  accno: 'LR963339',
+  subjectTitle: 'gi|1969817303|emb|LR963339.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EF91B genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 177,
+  endAlignment: 29531,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963210',
+  subjectTitle: 'gi|1969817302|emb|LR963210.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC4A4 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 1330,
+  endAlignment: 29520,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28191,
+  noreads: 74
+}
+{
+  accno: 'LR963361',
+  subjectTitle: 'gi|1969817295|emb|LR963361.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F04DA genome assembly, chromosome: 1',
+  percentIdentity: 98.41269841269842,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 63
+}
+{
+  accno: 'LR963354',
+  subjectTitle: 'gi|1969817292|emb|LR963354.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFF82 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 75
+}
+{
+  accno: 'LR963357',
+  subjectTitle: 'gi|1969817028|emb|LR963357.1| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFF55 genome assembly, chromosome: 1',
+  percentIdentity: 98.55072463768116,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 69
+}
+{
+  accno: 'LR963466',
+  subjectTitle: 'gi|1969807957|emb|LR963466.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-70 genome assembly, chromosome: 1',
+  percentIdentity: 98.48484848484848,
+  startAlignment: 144,
+  endAlignment: 29489,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29346,
+  noreads: 66
+}
+{
+  accno: 'LR963465',
+  subjectTitle: 'gi|1969807956|emb|LR963465.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-29 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 1312,
+  endAlignment: 29447,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28136,
+  noreads: 77
+}
+{
+  accno: 'LR963464',
+  subjectTitle: 'gi|1969807955|emb|LR963464.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-149 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 967,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 77
+}
+{
+  accno: 'LR963463',
+  subjectTitle: 'gi|1969807954|emb|LR963463.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-162BY genome assembly, chromosome: 1',
+  percentIdentity: 97.91666666666667,
+  startAlignment: 958,
+  endAlignment: 29497,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 48
+}
+{
+  accno: 'LR963462',
+  subjectTitle: 'gi|1969807953|emb|LR963462.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6983 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 171,
+  endAlignment: 29290,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963461',
+  subjectTitle: 'gi|1969807952|emb|LR963461.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6987 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 178,
+  endAlignment: 29297,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963460',
+  subjectTitle: 'gi|1969807951|emb|LR963460.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6985 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 144,
+  endAlignment: 29263,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 75
+}
+{
+  accno: 'LR963459',
+  subjectTitle: 'gi|1969807950|emb|LR963459.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6982 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 181,
+  endAlignment: 29300,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 75
+}
+{
+  accno: 'LR963458',
+  subjectTitle: 'gi|1969807949|emb|LR963458.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6981 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 165,
+  endAlignment: 29284,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963457',
+  subjectTitle: 'gi|1969807948|emb|LR963457.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-367 genome assembly, chromosome: 1',
+  percentIdentity: 98.38709677419355,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 62
+}
+{
+  accno: 'LR963456',
+  subjectTitle: 'gi|1969807947|emb|LR963456.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6988 genome assembly, chromosome: 1',
+  percentIdentity: 98.36065573770492,
+  startAlignment: 147,
+  endAlignment: 29264,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 29118,
+  noreads: 61
+}
+{
+  accno: 'LR963455',
+  subjectTitle: 'gi|1969807946|emb|LR963455.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6978 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29301,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963454',
+  subjectTitle: 'gi|1969807945|emb|LR963454.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6979 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29301,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963453',
+  subjectTitle: 'gi|1969807944|emb|LR963453.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6984 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 165,
+  endAlignment: 29284,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 76
+}
+{
+  accno: 'LR963452',
+  subjectTitle: 'gi|1969807943|emb|LR963452.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6991 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29301,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963451',
+  subjectTitle: 'gi|1969807942|emb|LR963451.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9494 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963450',
+  subjectTitle: 'gi|1969807941|emb|LR963450.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6980 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 174,
+  endAlignment: 29293,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963449',
+  subjectTitle: 'gi|1969807940|emb|LR963449.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6994 genome assembly, chromosome: 1',
+  percentIdentity: 98.46153846153847,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 65
+}
+{
+  accno: 'LR963448',
+  subjectTitle: 'gi|1969807939|emb|LR963448.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-8894 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 996,
+  endAlignment: 29535,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 72
+}
+{
+  accno: 'LR963447',
+  subjectTitle: 'gi|1969807938|emb|LR963447.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-27BY genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963446',
+  subjectTitle: 'gi|1969807937|emb|LR963446.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9090 genome assembly, chromosome: 1',
+  percentIdentity: 98.24561403508773,
+  startAlignment: 152,
+  endAlignment: 29508,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29357,
+  noreads: 57
+}
+{
+  accno: 'LR963445',
+  subjectTitle: 'gi|1969807936|emb|LR963445.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9957 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 174,
+  endAlignment: 29528,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963444',
+  subjectTitle: 'gi|1969807935|emb|LR963444.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-7001 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 165,
+  endAlignment: 29284,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963443',
+  subjectTitle: 'gi|1969807934|emb|LR963443.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9469 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963442',
+  subjectTitle: 'gi|1969807933|emb|LR963442.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6990 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 145,
+  endAlignment: 29264,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963441',
+  subjectTitle: 'gi|1969807932|emb|LR963441.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-214 genome assembly, chromosome: 1',
+  percentIdentity: 98.4375,
+  startAlignment: 964,
+  endAlignment: 29503,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 64
+}
+{
+  accno: 'LR963440',
+  subjectTitle: 'gi|1969807931|emb|LR963440.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-169 genome assembly, chromosome: 1',
+  percentIdentity: 98.21428571428571,
+  startAlignment: 967,
+  endAlignment: 29508,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 28542,
+  noreads: 56
+}
+{
+  accno: 'LR963438',
+  subjectTitle: 'gi|1969807929|emb|LR963438.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9129 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963437',
+  subjectTitle: 'gi|1969807928|emb|LR963437.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9100 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963436',
+  subjectTitle: 'gi|1969807927|emb|LR963436.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9947 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 181,
+  endAlignment: 29535,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963435',
+  subjectTitle: 'gi|1969807926|emb|LR963435.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1114 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963433',
+  subjectTitle: 'gi|1969807924|emb|LR963433.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-7178 genome assembly, chromosome: 1',
+  percentIdentity: 98.50746268656717,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 67
+}
+{
+  accno: 'LR963432',
+  subjectTitle: 'gi|1969807923|emb|LR963432.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-4305 genome assembly, chromosome: 1',
+  percentIdentity: 98.75,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR963431',
+  subjectTitle: 'gi|1969807922|emb|LR963431.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-8929 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 148,
+  endAlignment: 29502,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR963430',
+  subjectTitle: 'gi|1969807921|emb|LR963430.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9116 genome assembly, chromosome: 1',
+  percentIdentity: 98.36065573770492,
+  startAlignment: 145,
+  endAlignment: 29499,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 61
+}
+{
+  accno: 'LR963429',
+  subjectTitle: 'gi|1969807920|emb|LR963429.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1478B genome assembly, chromosome: 1',
+  percentIdentity: 97.82608695652173,
+  startAlignment: 959,
+  endAlignment: 29496,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 28538,
+  noreads: 46
+}
+{
+  accno: 'LR963428',
+  subjectTitle: 'gi|1969807919|emb|LR963428.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-333 genome assembly, chromosome: 1',
+  percentIdentity: 98.4375,
+  startAlignment: 144,
+  endAlignment: 29489,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29346,
+  noreads: 64
+}
+{
+  accno: 'LR963427',
+  subjectTitle: 'gi|1969807918|emb|LR963427.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1202B genome assembly, chromosome: 1',
+  percentIdentity: 98.14814814814815,
+  startAlignment: 959,
+  endAlignment: 29497,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 28539,
+  noreads: 54
+}
+{
+  accno: 'LR963426',
+  subjectTitle: 'gi|1969807917|emb|LR963426.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9102 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963424',
+  subjectTitle: 'gi|1969807915|emb|LR963424.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6971 genome assembly, chromosome: 1',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 152,
+  endAlignment: 29271,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 72
+}
+{
+  accno: 'LR963423',
+  subjectTitle: 'gi|1969807914|emb|LR963423.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1479B genome assembly, chromosome: 1',
+  percentIdentity: 97.72727272727273,
+  startAlignment: 967,
+  endAlignment: 29507,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 28541,
+  noreads: 44
+}
+{
+  accno: 'LR963422',
+  subjectTitle: 'gi|1969807913|emb|LR963422.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6970 genome assembly, chromosome: 1',
+  percentIdentity: 98.52941176470588,
+  startAlignment: 144,
+  endAlignment: 29264,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29121,
+  noreads: 68
+}
+{
+  accno: 'LR963420',
+  subjectTitle: 'gi|1969807911|emb|LR963420.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9095 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 161,
+  endAlignment: 29515,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR963419',
+  subjectTitle: 'gi|1969807910|emb|LR963419.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9465 genome assembly, chromosome: 1',
+  percentIdentity: 98.52941176470588,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 68
+}
+{
+  accno: 'LR963418',
+  subjectTitle: 'gi|1969807909|emb|LR963418.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6999 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 179,
+  endAlignment: 29298,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963417',
+  subjectTitle: 'gi|1969807908|emb|LR963417.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1172B genome assembly, chromosome: 1',
+  percentIdentity: 98.4375,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 64
+}
+{
+  accno: 'LR963416',
+  subjectTitle: 'gi|1969807907|emb|LR963416.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-168 genome assembly, chromosome: 1',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 995,
+  endAlignment: 29534,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 75
+}
+{
+  accno: 'LR963415',
+  subjectTitle: 'gi|1969807906|emb|LR963415.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-7003 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 152,
+  endAlignment: 29271,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963414',
+  subjectTitle: 'gi|1969807905|emb|LR963414.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9112 genome assembly, chromosome: 1',
+  percentIdentity: 98.38709677419355,
+  startAlignment: 959,
+  endAlignment: 29498,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 28540,
+  noreads: 62
+}
+{
+  accno: 'LR963413',
+  subjectTitle: 'gi|1969807904|emb|LR963413.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9538 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 171,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963412',
+  subjectTitle: 'gi|1969807903|emb|LR963412.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6973 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 181,
+  endAlignment: 29300,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963411',
+  subjectTitle: 'gi|1969807902|emb|LR963411.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6977 genome assembly, chromosome: 1',
+  percentIdentity: 98,
+  startAlignment: 1316,
+  endAlignment: 29447,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 28132,
+  noreads: 50
+}
+{
+  accno: 'LR963410',
+  subjectTitle: 'gi|1969807901|emb|LR963410.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6976 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 177,
+  endAlignment: 29296,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963409',
+  subjectTitle: 'gi|1969807900|emb|LR963409.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6969 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 178,
+  endAlignment: 29297,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963408',
+  subjectTitle: 'gi|1969807899|emb|LR963408.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-28BY genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963407',
+  subjectTitle: 'gi|1969807898|emb|LR963407.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9811 genome assembly, chromosome: 1',
+  percentIdentity: 98.59154929577464,
+  startAlignment: 145,
+  endAlignment: 29499,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 71
+}
+{
+  accno: 'LR963406',
+  subjectTitle: 'gi|1969807897|emb|LR963406.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-483 genome assembly, chromosome: 1',
+  percentIdentity: 97.5,
+  startAlignment: 1958,
+  endAlignment: 29217,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 27260,
+  noreads: 40
+}
+{
+  accno: 'LR963405',
+  subjectTitle: 'gi|1969807896|emb|LR963405.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9537 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 73
+}
+{
+  accno: 'LR963404',
+  subjectTitle: 'gi|1969807895|emb|LR963404.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-391 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 177,
+  endAlignment: 29531,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963403',
+  subjectTitle: 'gi|1969807894|emb|LR963403.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-7000 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 144,
+  endAlignment: 29263,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963402',
+  subjectTitle: 'gi|1969807893|emb|LR963402.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-25 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 1316,
+  endAlignment: 29451,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28136,
+  noreads: 77
+}
+{
+  accno: 'LR963401',
+  subjectTitle: 'gi|1969807892|emb|LR963401.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9115 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 73
+}
+{
+  accno: 'LR963400',
+  subjectTitle: 'gi|1969807891|emb|LR963400.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9536 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 165,
+  endAlignment: 29519,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 73
+}
+{
+  accno: 'LR963399',
+  subjectTitle: 'gi|1969807890|emb|LR963399.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6992 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 180,
+  endAlignment: 29299,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963398',
+  subjectTitle: 'gi|1969807889|emb|LR963398.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-7113 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR963397',
+  subjectTitle: 'gi|1969807888|emb|LR963397.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1189B genome assembly, chromosome: 1',
+  percentIdentity: 97.29729729729729,
+  startAlignment: 152,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29347,
+  noreads: 37
+}
+{
+  accno: 'LR963396',
+  subjectTitle: 'gi|1969807887|emb|LR963396.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1198B genome assembly, chromosome: 1',
+  percentIdentity: 98.11320754716981,
+  startAlignment: 145,
+  endAlignment: 29499,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 53
+}
+{
+  accno: 'LR963395',
+  subjectTitle: 'gi|1969807886|emb|LR963395.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1193B genome assembly, chromosome: 1',
+  percentIdentity: 98.41269841269842,
+  startAlignment: 161,
+  endAlignment: 29516,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29356,
+  noreads: 63
+}
+{
+  accno: 'LR963394',
+  subjectTitle: 'gi|1969807885|emb|LR963394.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-8911 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963393',
+  subjectTitle: 'gi|1969807884|emb|LR963393.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6965 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 993,
+  endAlignment: 29297,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 78
+}
+{
+  accno: 'LR963392',
+  subjectTitle: 'gi|1969807883|emb|LR963392.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6998 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29301,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963391',
+  subjectTitle: 'gi|1969807882|emb|LR963391.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-480 genome assembly, chromosome: 1',
+  percentIdentity: 98.36065573770492,
+  startAlignment: 145,
+  endAlignment: 29499,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 61
+}
+{
+  accno: 'LR963390',
+  subjectTitle: 'gi|1969807881|emb|LR963390.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1714 genome assembly, chromosome: 1',
+  percentIdentity: 98.4375,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 64
+}
+{
+  accno: 'LR963389',
+  subjectTitle: 'gi|1969807880|emb|LR963389.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6989 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 180,
+  endAlignment: 29299,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963388',
+  subjectTitle: 'gi|1969807879|emb|LR963388.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-8694 genome assembly, chromosome: 1',
+  percentIdentity: 98.24561403508773,
+  startAlignment: 152,
+  endAlignment: 29507,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29356,
+  noreads: 57
+}
+{
+  accno: 'LR963387',
+  subjectTitle: 'gi|1969807878|emb|LR963387.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6993 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 996,
+  endAlignment: 29300,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 78
+}
+{
+  accno: 'LR963386',
+  subjectTitle: 'gi|1969807877|emb|LR963386.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-7002 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 179,
+  endAlignment: 29298,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963385',
+  subjectTitle: 'gi|1969807876|emb|LR963385.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9513 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 176,
+  endAlignment: 29530,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963384',
+  subjectTitle: 'gi|1969807875|emb|LR963384.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9515 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963383',
+  subjectTitle: 'gi|1969807874|emb|LR963383.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-307 genome assembly, chromosome: 1',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR963382',
+  subjectTitle: 'gi|1969807873|emb|LR963382.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6997 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29301,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963381',
+  subjectTitle: 'gi|1969807872|emb|LR963381.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6972 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29301,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963380',
+  subjectTitle: 'gi|1969807871|emb|LR963380.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9521 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR963379',
+  subjectTitle: 'gi|1969807870|emb|LR963379.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9096 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 145,
+  endAlignment: 29499,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963378',
+  subjectTitle: 'gi|1969807869|emb|LR963378.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9953 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963377',
+  subjectTitle: 'gi|1969807868|emb|LR963377.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-EC genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963376',
+  subjectTitle: 'gi|1969807867|emb|LR963376.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6974 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 178,
+  endAlignment: 29297,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963375',
+  subjectTitle: 'gi|1969807866|emb|LR963375.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-1200B genome assembly, chromosome: 1',
+  percentIdentity: 98.03921568627452,
+  startAlignment: 144,
+  endAlignment: 29497,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29354,
+  noreads: 51
+}
+{
+  accno: 'LR963374',
+  subjectTitle: 'gi|1969807865|emb|LR963374.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6996 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 180,
+  endAlignment: 29299,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 79
+}
+{
+  accno: 'LR963373',
+  subjectTitle: 'gi|1969807864|emb|LR963373.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9955 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 178,
+  endAlignment: 29532,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963372',
+  subjectTitle: 'gi|1969807863|emb|LR963372.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9951 genome assembly, chromosome: 1',
+  percentIdentity: 98.57142857142857,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 70
+}
+{
+  accno: 'LR963371',
+  subjectTitle: 'gi|1969807862|emb|LR963371.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-25BY genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963370',
+  subjectTitle: 'gi|1969807861|emb|LR963370.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9949 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 170,
+  endAlignment: 29524,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963369',
+  subjectTitle: 'gi|1969807860|emb|LR963369.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9506 genome assembly, chromosome: 1',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR963368',
+  subjectTitle: 'gi|1969807859|emb|LR963368.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9527 genome assembly, chromosome: 1',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR963367',
+  subjectTitle: 'gi|1969807858|emb|LR963367.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-6903 genome assembly, chromosome: 1',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR963317',
+  subjectTitle: 'gi|1969807857|emb|LR963317.1| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EFD88 genome assembly, chromosome: 1',
+  percentIdentity: 98.63013698630137,
+  startAlignment: 997,
+  endAlignment: 29301,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 73
+}
+{
+  accno: 'LR992128',
+  subjectTitle: 'gi|1964081449|emb|LR992128.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR992127',
+  subjectTitle: 'gi|1964081448|emb|LR992127.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR992126',
+  subjectTitle: 'gi|1964081447|emb|LR992126.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992125',
+  subjectTitle: 'gi|1964081446|emb|LR992125.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 171,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992124',
+  subjectTitle: 'gi|1964081445|emb|LR992124.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR992123',
+  subjectTitle: 'gi|1964081444|emb|LR992123.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 186,
+  endAlignment: 29540,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992122',
+  subjectTitle: 'gi|1964081443|emb|LR992122.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 186,
+  endAlignment: 29540,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992121',
+  subjectTitle: 'gi|1964081442|emb|LR992121.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 193,
+  endAlignment: 29547,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992120',
+  subjectTitle: 'gi|1964081441|emb|LR992120.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 191,
+  endAlignment: 29545,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992119',
+  subjectTitle: 'gi|1964081440|emb|LR992119.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992118',
+  subjectTitle: 'gi|1964081439|emb|LR992118.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992117',
+  subjectTitle: 'gi|1964081438|emb|LR992117.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.61111111111111,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 72
+}
+{
+  accno: 'LR992116',
+  subjectTitle: 'gi|1964081437|emb|LR992116.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 188,
+  endAlignment: 29307,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 78
+}
+{
+  accno: 'LR992114',
+  subjectTitle: 'gi|1964081435|emb|LR992114.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992113',
+  subjectTitle: 'gi|1964081434|emb|LR992113.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 186,
+  endAlignment: 29540,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992112',
+  subjectTitle: 'gi|1964081433|emb|LR992112.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992111',
+  subjectTitle: 'gi|1964081432|emb|LR992111.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992110',
+  subjectTitle: 'gi|1964081431|emb|LR992110.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992109',
+  subjectTitle: 'gi|1964081430|emb|LR992109.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992108',
+  subjectTitle: 'gi|1964081429|emb|LR992108.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR992107',
+  subjectTitle: 'gi|1964081428|emb|LR992107.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992106',
+  subjectTitle: 'gi|1964081427|emb|LR992106.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992105',
+  subjectTitle: 'gi|1964081426|emb|LR992105.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992104',
+  subjectTitle: 'gi|1964081425|emb|LR992104.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992103',
+  subjectTitle: 'gi|1964081424|emb|LR992103.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR992102',
+  subjectTitle: 'gi|1964081423|emb|LR992102.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992101',
+  subjectTitle: 'gi|1964081422|emb|LR992101.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR992100',
+  subjectTitle: 'gi|1964081421|emb|LR992100.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992099',
+  subjectTitle: 'gi|1964081420|emb|LR992099.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 190,
+  endAlignment: 29544,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992098',
+  subjectTitle: 'gi|1964081419|emb|LR992098.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992097',
+  subjectTitle: 'gi|1964081418|emb|LR992097.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 192,
+  endAlignment: 29546,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992096',
+  subjectTitle: 'gi|1964081417|emb|LR992096.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992095',
+  subjectTitle: 'gi|1964081416|emb|LR992095.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992094',
+  subjectTitle: 'gi|1964081415|emb|LR992094.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992093',
+  subjectTitle: 'gi|1964081414|emb|LR992093.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 171,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR992092',
+  subjectTitle: 'gi|1964081413|emb|LR992092.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992091',
+  subjectTitle: 'gi|1964081412|emb|LR992091.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992090',
+  subjectTitle: 'gi|1964081411|emb|LR992090.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 190,
+  endAlignment: 29544,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992089',
+  subjectTitle: 'gi|1964081410|emb|LR992089.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992088',
+  subjectTitle: 'gi|1964081409|emb|LR992088.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 188,
+  endAlignment: 29307,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 77
+}
+{
+  accno: 'LR992087',
+  subjectTitle: 'gi|1964081408|emb|LR992087.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992086',
+  subjectTitle: 'gi|1964081407|emb|LR992086.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992085',
+  subjectTitle: 'gi|1964081406|emb|LR992085.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 194,
+  endAlignment: 29548,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992084',
+  subjectTitle: 'gi|1964081405|emb|LR992084.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 172,
+  endAlignment: 28994,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28823,
+  noreads: 77
+}
+{
+  accno: 'LR992083',
+  subjectTitle: 'gi|1964081404|emb|LR992083.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992082',
+  subjectTitle: 'gi|1964081403|emb|LR992082.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992081',
+  subjectTitle: 'gi|1964081402|emb|LR992081.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992080',
+  subjectTitle: 'gi|1964081401|emb|LR992080.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 189,
+  endAlignment: 29308,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 76
+}
+{
+  accno: 'LR992079',
+  subjectTitle: 'gi|1964081400|emb|LR992079.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 190,
+  endAlignment: 29544,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992078',
+  subjectTitle: 'gi|1964081399|emb|LR992078.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992077',
+  subjectTitle: 'gi|1964081398|emb|LR992077.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 191,
+  endAlignment: 29545,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992076',
+  subjectTitle: 'gi|1964081397|emb|LR992076.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 1002,
+  endAlignment: 29306,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28305,
+  noreads: 76
+}
+{
+  accno: 'LR992075',
+  subjectTitle: 'gi|1964081396|emb|LR992075.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 190,
+  endAlignment: 29309,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 78
+}
+{
+  accno: 'LR992074',
+  subjectTitle: 'gi|1964081395|emb|LR992074.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992073',
+  subjectTitle: 'gi|1964081394|emb|LR992073.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 190,
+  endAlignment: 29544,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992072',
+  subjectTitle: 'gi|1964081393|emb|LR992072.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 183,
+  endAlignment: 29302,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 76
+}
+{
+  accno: 'LR992071',
+  subjectTitle: 'gi|1964081392|emb|LR992071.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 188,
+  endAlignment: 29307,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29120,
+  noreads: 78
+}
+{
+  accno: 'LR992070',
+  subjectTitle: 'gi|1964081391|emb|LR992070.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992069',
+  subjectTitle: 'gi|1964081390|emb|LR992069.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992068',
+  subjectTitle: 'gi|1964081389|emb|LR992068.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992067',
+  subjectTitle: 'gi|1964081388|emb|LR992067.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992066',
+  subjectTitle: 'gi|1964081387|emb|LR992066.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992065',
+  subjectTitle: 'gi|1964081386|emb|LR992065.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 169,
+  endAlignment: 29523,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992064',
+  subjectTitle: 'gi|1964081385|emb|LR992064.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR992063',
+  subjectTitle: 'gi|1964081384|emb|LR992063.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 186,
+  endAlignment: 29540,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992062',
+  subjectTitle: 'gi|1964081383|emb|LR992062.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992061',
+  subjectTitle: 'gi|1964081382|emb|LR992061.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992060',
+  subjectTitle: 'gi|1964081381|emb|LR992060.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 179,
+  endAlignment: 29533,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992057',
+  subjectTitle: 'gi|1964081380|emb|LR992057.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992056',
+  subjectTitle: 'gi|1964081379|emb|LR992056.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992055',
+  subjectTitle: 'gi|1964081378|emb|LR992055.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992054',
+  subjectTitle: 'gi|1964081377|emb|LR992054.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992053',
+  subjectTitle: 'gi|1964081376|emb|LR992053.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992052',
+  subjectTitle: 'gi|1964081375|emb|LR992052.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992051',
+  subjectTitle: 'gi|1964081374|emb|LR992051.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.7012987012987,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 77
+}
+{
+  accno: 'LR992050',
+  subjectTitle: 'gi|1964081373|emb|LR992050.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992049',
+  subjectTitle: 'gi|1964081372|emb|LR992049.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992048',
+  subjectTitle: 'gi|1964081371|emb|LR992048.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.75,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 80
+}
+{
+  accno: 'LR992047',
+  subjectTitle: 'gi|1964081370|emb|LR992047.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 171,
+  endAlignment: 29525,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992046',
+  subjectTitle: 'gi|1964081369|emb|LR992046.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.73417721518987,
+  startAlignment: 188,
+  endAlignment: 29542,
+  evalue: 5.85e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 79
+}
+{
+  accno: 'LR992045',
+  subjectTitle: 'gi|1964081368|emb|LR992045.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.6842105263158,
+  startAlignment: 185,
+  endAlignment: 29539,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 76
+}
+{
+  accno: 'LR992044',
+  subjectTitle: 'gi|1964081367|emb|LR992044.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 189,
+  endAlignment: 29543,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 78
+}
+{
+  accno: 'LR992043',
+  subjectTitle: 'gi|1964081366|emb|LR992043.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.64864864864865,
+  startAlignment: 191,
+  endAlignment: 29545,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 74
+}
+{
+  accno: 'LR992042',
+  subjectTitle: 'gi|1964081365|emb|LR992042.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.48484848484848,
+  startAlignment: 187,
+  endAlignment: 28037,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 27851,
+  noreads: 66
+}
+{
+  accno: 'LR992041',
+  subjectTitle: 'gi|1964081364|emb|LR992041.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.57142857142857,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 70
+}
+{
+  accno: 'LR992040',
+  subjectTitle: 'gi|1964081363|emb|LR992040.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.50746268656717,
+  startAlignment: 180,
+  endAlignment: 29534,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 67
+}
+{
+  accno: 'LR992039',
+  subjectTitle: 'gi|1964081362|emb|LR992039.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.41269841269842,
+  startAlignment: 187,
+  endAlignment: 29541,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 63
+}
+{
+  accno: 'LR992038',
+  subjectTitle: 'gi|1964081361|emb|LR992038.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.52941176470588,
+  startAlignment: 186,
+  endAlignment: 29540,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 68
+}
+{
+  accno: 'LC573289',
+  subjectTitle: 'gi|1968818725|dbj|LC573289.2| Severe acute respiratory syndrome coronavirus 2 SARS-CoV-2/Hu/KngFJ/23RD5 RNA, complete genome',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 28840,
+  noreads: 78
+}
+{
+  accno: 'LC571028',
+  subjectTitle: 'gi|1878067932|dbj|LC571028.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0763 RNA, contig 3',
+  percentIdentity: 96.66666666666667,
+  startAlignment: 187,
+  endAlignment: 11381,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 11495,
+  noreads: 30
+}
+{
+  accno: 'LC571017',
+  subjectTitle: 'gi|1878067921|dbj|LC571017.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0697 RNA, contig 2',
+  percentIdentity: 97.95918367346938,
+  startAlignment: 83,
+  endAlignment: 16183,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 16401,
+  noreads: 49
+}
+{
+  accno: 'LC570965',
+  subjectTitle: 'gi|1878067869|dbj|LC570965.1| Severe acute respiratory syndrome coronavirus 2 isolate DP0058 RNA, contig 2',
+  percentIdentity: 98.38709677419355,
+  startAlignment: 82,
+  endAlignment: 23738,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 23957,
+  noreads: 62
+}
+{
+  accno: 'LR963158',
+  subjectTitle: 'gi|1969817333|emb|LR963158.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC8A8 genome assembly, chromosome: 1',
+  percentIdentity: 95,
+  startAlignment: 3236,
+  endAlignment: 19056,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 16121,
+  noreads: 20
+}
+{
+  accno: 'LR963434',
+  subjectTitle: 'gi|1969807925|emb|LR963434.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-3182 genome assembly, chromosome: 1',
+  percentIdentity: 97.61904761904762,
+  startAlignment: 146,
+  endAlignment: 27993,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 28148,
+  noreads: 42
+}
+{
+  accno: 'LR963425',
+  subjectTitle: 'gi|1969807916|emb|LR963425.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-9912 genome assembly, chromosome: 1',
+  percentIdentity: 98.38709677419355,
+  startAlignment: 144,
+  endAlignment: 29498,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 62
+}
+{
+  accno: 'LR993082',
+  subjectTitle: 'gi|1964090160|emb|LR993082.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.71794871794872,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 78
+}
+{
+  accno: 'LR992115',
+  subjectTitle: 'gi|1964081436|emb|LR992115.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 98.66666666666667,
+  startAlignment: 169,
+  endAlignment: 29523,
+  evalue: 5.850000000000001e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 75
+}
+{
+  accno: 'LR992032',
+  subjectTitle: 'gi|1964081355|emb|LR992032.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.27586206896552,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 58
+}
+{
+  accno: 'LR992031',
+  subjectTitle: 'gi|1964081354|emb|LR992031.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.11320754716981,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 53
+}
+{
+  accno: 'LR992030',
+  subjectTitle: 'gi|1964081353|emb|LR992030.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.11320754716981,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 53
+}
+{
+  accno: 'LR992029',
+  subjectTitle: 'gi|1964081352|emb|LR992029.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.18181818181819,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 55
+}
+{
+  accno: 'LR992028',
+  subjectTitle: 'gi|1964081351|emb|LR992028.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000005e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 50
+}
+{
+  accno: 'LR992027',
+  subjectTitle: 'gi|1964081350|emb|LR992027.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 97.87234042553192,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 47
+}
+{
+  accno: 'LR992026',
+  subjectTitle: 'gi|1964081349|emb|LR992026.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 97.77777777777777,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000004e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 45
+}
+{
+  accno: 'LR992025',
+  subjectTitle: 'gi|1964081348|emb|LR992025.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96,
+  startAlignment: 1456,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 28381,
+  noreads: 25
+}
+{
+  accno: 'LR992024',
+  subjectTitle: 'gi|1964081347|emb|LR992024.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 97.5609756097561,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 41
+}
+{
+  accno: 'LR992023',
+  subjectTitle: 'gi|1964081346|emb|LR992023.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 97.43589743589743,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000003e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 39
+}
+{
+  accno: 'LR992022',
+  subjectTitle: 'gi|1964081345|emb|LR992022.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.96969696969697,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 28840,
+  noreads: 33
+}
+{
+  accno: 'LR992021',
+  subjectTitle: 'gi|1964081344|emb|LR992021.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96,
+  startAlignment: 997,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 28840,
+  noreads: 25
+}
+{
+  accno: 'LR992020',
+  subjectTitle: 'gi|1964081343|emb|LR992020.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.7741935483871,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 31
+}
+{
+  accno: 'LR992019',
+  subjectTitle: 'gi|1964081342|emb|LR992019.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.7741935483871,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 31
+}
+{
+  accno: 'LR992018',
+  subjectTitle: 'gi|1964081341|emb|LR992018.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.7741935483871,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 31
+}
+{
+  accno: 'LR992017',
+  subjectTitle: 'gi|1964081340|emb|LR992017.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.42857142857143,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 28
+}
+{
+  accno: 'LR992016',
+  subjectTitle: 'gi|1964081339|emb|LR992016.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.42857142857143,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 28
+}
+{
+  accno: 'LR992015',
+  subjectTitle: 'gi|1964081338|emb|LR992015.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.15384615384616,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 26
+}
+{
+  accno: 'LR992014',
+  subjectTitle: 'gi|1964081337|emb|LR992014.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 25
+}
+{
+  accno: 'LR992013',
+  subjectTitle: 'gi|1964081336|emb|LR992013.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 25
+}
+{
+  accno: 'LR992012',
+  subjectTitle: 'gi|1964081335|emb|LR992012.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.83333333333333,
+  startAlignment: 2233,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 27604,
+  noreads: 24
+}
+{
+  accno: 'LR992009',
+  subjectTitle: 'gi|1964081332|emb|LR992009.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 96.15384615384616,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 26
+}
+{
+  accno: 'LR992035',
+  subjectTitle: 'gi|1964081358|emb|LR992035.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.21428571428571,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 56
+}
+{
+  accno: 'LR992034',
+  subjectTitle: 'gi|1964081357|emb|LR992034.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 98.21428571428571,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29355,
+  noreads: 56
+}
+{
+  accno: 'LR963211',
+  subjectTitle: 'gi|1969817439|emb|LR963211.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC44A genome assembly, chromosome: 1',
+  percentIdentity: 98.38709677419355,
+  startAlignment: 672,
+  endAlignment: 29210,
+  evalue: 5.850000000000008e-73,
+  bitscore: 279,
+  alignmentLength: 28839,
+  noreads: 62
+}
+{
+  accno: 'LR963337',
+  subjectTitle: 'gi|1969817300|emb|LR963337.2| Severe acute respiratory syndrome coronavirus 2 isolate NORW-F064D genome assembly, chromosome: 1',
+  percentIdentity: 95.83333333333333,
+  startAlignment: 182,
+  endAlignment: 21746,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 21865,
+  noreads: 24
+}
+{
+  accno: 'LR963439',
+  subjectTitle: 'gi|1969807930|emb|LR963439.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-10116 genome assembly, chromosome: 1',
+  percentIdentity: 98.14814814814815,
+  startAlignment: 152,
+  endAlignment: 29506,
+  evalue: 5.850000000000006e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 54
+}
+{
+  accno: 'LR963161',
+  subjectTitle: 'gi|1969817336|emb|LR963161.3| Severe acute respiratory syndrome coronavirus 2 isolate NORW-EC3C5 genome assembly, chromosome: 1',
+  percentIdentity: 95.45454545454545,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 22
+}
+{
+  accno: 'LR963421',
+  subjectTitle: 'gi|1969807912|emb|LR963421.1| Severe acute respiratory syndrome coronavirus 2 isolate ZW-532 genome assembly, chromosome: 1',
+  percentIdentity: 96.875,
+  startAlignment: 3198,
+  endAlignment: 29498,
+  evalue: 5.849999999999999e-73,
+  bitscore: 279,
+  alignmentLength: 26601,
+  noreads: 32
+}
+{
+  accno: 'LR992008',
+  subjectTitle: 'gi|1964081331|emb|LR992008.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.65217391304348,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 23
+}
+{
+  accno: 'LR992007',
+  subjectTitle: 'gi|1964081330|emb|LR992007.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.65217391304348,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 23
+}
+{
+  accno: 'LR992006',
+  subjectTitle: 'gi|1964081329|emb|LR992006.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.65217391304348,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 23
+}
+{
+  accno: 'LR992005',
+  subjectTitle: 'gi|1964081328|emb|LR992005.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.65217391304348,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 23
+}
+{
+  accno: 'LR992004',
+  subjectTitle: 'gi|1964081327|emb|LR992004.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.65217391304348,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 23
+}
+{
+  accno: 'LR992003',
+  subjectTitle: 'gi|1964081326|emb|LR992003.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: 1',
+  percentIdentity: 95.45454545454545,
+  startAlignment: 182,
+  endAlignment: 29536,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 29655,
+  noreads: 22
+}
+{
+  accno: 'LR992037',
+  subjectTitle: 'gi|1964081360|emb|LR992037.1| Severe acute respiratory syndrome coronavirus 2 genome assembly, chromosome: genome',
+  percentIdentity: 95.65217391304348,
+  startAlignment: 188,
+  endAlignment: 7263,
+  evalue: 5.849999999999998e-73,
+  bitscore: 279,
+  alignmentLength: 7076,
+  noreads: 23
+}
