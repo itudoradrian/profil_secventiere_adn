@@ -58,16 +58,23 @@ const lineReportObjectFactory = (
   };
 };
 const mergeStats = async (reportJson) => {
-  Object.keys(reportJson).map(async (accno) => {
+  const finalData = [];
+  await Object.keys(reportJson).map(async (accno) => {
     if (reportJson[accno].length >= 20) {
       const mergedObjects = await mergeReads(reportJson[accno]);
-      console.log({
+      finalData.push({
         accno,
         ...mergedObjects,
         noreads: reportJson[accno].length,
       });
     }
   });
+
+  if (finalData.length > 100) {
+    console.log(JSON.stringify(finalData.splice(0, 100)));
+  } else {
+    console.log(JSON.stringify(finalData));
+  }
 };
 const mergeReads = (readObjects) => {
   const interval = {};
@@ -103,10 +110,10 @@ const mergeReads = (readObjects) => {
   evalueAvg = evalueAvg / readObjects.length;
   return {
     subjectTitle,
-    percentIdentity: percentIdentityAvg,
+    percentIdentity: percentIdentityAvg.toString(),
     startAlignment: interval.start,
     endAlignment: interval.end,
-    evalue: evalueAvg,
+    evalue: evalueAvg.toString(),
     bitscore: bitscoreAvg,
     alignmentLength: totalLength,
   };

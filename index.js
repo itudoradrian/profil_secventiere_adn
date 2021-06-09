@@ -1,9 +1,9 @@
 const { spawn } = require("child_process");
 const fs = require("fs");
 
-// const sampleFileName =
-//   "/home/tudor/Downloads/NPHL166134_R1.cluster_toy.fastq.gz";
-// const zcatProcess = spawn("zcat", [`${sampleFileName}`]);
+const sampleFileName =
+  "/home/tudor/Downloads/NPHL166134_R1.cluster_toy.fastq.gz";
+const zcatProcess = spawn("zcat", [`${sampleFileName}`]);
 const cutAdaptProcess = spawn(
   "fastp",
   [
@@ -38,9 +38,9 @@ const processBlastProcess = spawn("node", ["process_blast_report.js"], {
   shell: true,
 });
 
-// zcatProcess.stdout.pipe();
-// zcatProcess.stderr.pipe(fs.createWriteStream("err.out"));
-cutAdaptProcess.stdin.pipe(process.stdin);
+zcatProcess.stdout.pipe(cutAdaptProcess.stdin);
+zcatProcess.stderr.pipe(fs.createWriteStream("err.out"));
+// cutAdaptProcess.stdin.pipe(process.stdin);
 cutAdaptProcess.stdout.pipe(bowtie2Process.stdin);
 cutAdaptProcess.stderr.pipe(fs.createWriteStream("err.out"));
 bowtie2Process.stdout.pipe(samtoolsProcess.stdin);
@@ -49,8 +49,6 @@ samtoolsProcess.stdout.pipe(blastProcess.stdin);
 samtoolsProcess.stderr.pipe(fs.createWriteStream("err.out"));
 blastProcess.stdout.pipe(processBlastProcess.stdin);
 blastProcess.stderr.pipe(fs.createWriteStream("err.out"));
-processBlastProcess.stdout.pipe(
-  process.stdout
-);
+processBlastProcess.stdout.pipe(process.stdout);
 // fs.createWriteStream("output.txt", { encoding: "utf-8" })
 processBlastProcess.stderr.pipe(fs.createWriteStream("err.out"));
