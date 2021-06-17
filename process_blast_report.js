@@ -71,9 +71,9 @@ const mergeStats = async (reportJson) => {
   });
 
   if (finalData.length > 100) {
-    console.log(JSON.stringify(finalData.splice(0, 100)));
+    console.log(JSON.stringify(finalData.sort((a,b) => b.noreads - a.noreads).splice(0, 100)));
   } else {
-    console.log(JSON.stringify(finalData));
+    console.log(JSON.stringify(finalData.sort((a,b) => b.noreads - a.noreads)));
   }
 };
 const mergeReads = (readObjects) => {
@@ -110,10 +110,10 @@ const mergeReads = (readObjects) => {
   evalueAvg = evalueAvg / readObjects.length;
   return {
     subjectTitle,
-    percentIdentity: percentIdentityAvg.toString(),
+    percentIdentity: percentIdentityAvg,
     startAlignment: interval.start,
     endAlignment: interval.end,
-    evalue: evalueAvg.toString(),
+    evalue: evalueAvg,
     bitscore: bitscoreAvg,
     alignmentLength: totalLength,
   };
